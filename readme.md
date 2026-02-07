@@ -3,7 +3,7 @@
 ### A passionate Web developer
 
 # About Me:
-I'm currently working on Improving my javascript knowledge<br><br> I'm currently learning ASP.NET + SQL SERVER<br><br> I'm looking to collaborate on Any of my project<br><br> I'm looking for help with UI/UX as its the most imp part of Web Dev<br><br> Ask me about How to use AI to create hillarious content of your freinds <br><br>📫 How to reach me rutaabali3@gmail.com<br><br> Fun fact I think I am funny . Do you think so???<br><br> All of my projects are available at https://www.i-dont-have-one.com<br><br> I regularly write articles on https://www.i-dont-have-one.com<br><br> Know about my experiences https://www.i-dont-have-one.com
+I'm currently working on Improving my javascript knowledge<br><br> I'm currently learning ASP.NET + SQL SERVER<br><br> I'm looking to collaborate on Any of my project<br><br> I'm looking for help with UI/UX as its the most imp part of Web Dev<br><br> Ask me about How to use AI to create hillarious content of your freinds <br><br> How to reach me rutaabali3@gmail.com<br><br> Fun fact I think I am funny . Do you think so???<br><br> All of my projects are available at https://www.i-dont-have-one.com<br><br> I regularly write articles on https://www.i-dont-have-one.com<br><br> Know about my experiences https://www.i-dont-have-one.com
 
 
 <!--##  Socials:   
