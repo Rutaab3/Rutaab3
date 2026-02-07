@@ -35,8 +35,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rutaab3&limit=10&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
-
+![](https://github-contributor-stats.vercel.app/api?username=Rutaab3&limit=100&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
 
 ---
 ![Snake Animation](https://raw.githubusercontent.com/Rutaab3/Rutaab3/output/github-contribution-grid-snake-dark.svg)
