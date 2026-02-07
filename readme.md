@@ -32,7 +32,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rutaab3&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+> "Code never lies, comments sometimes do." — Ron Jeffries
 
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rutaab3&limit=100&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
