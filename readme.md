@@ -37,11 +37,9 @@
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rutaab3&limit=10&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Rutaab3&icon=9&color=0)](https://visitcount.itsvg.in)
 
 ---
-![Snake Animation](https://github.com/Rutaab3/Rutaab3/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake Animation](https://raw.githubusercontent.com/Rutaab3/Rutaab3/output/github-contribution-grid-snake-dark.svg)
 
 
 <!-- ##  Socials (Don't have any of them):   
