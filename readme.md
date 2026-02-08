@@ -1,117 +1,3 @@
-<style>
-    body {
-      margin: 0;
-      padding: 20px;
-      background-color: #0d1117;
-      color: #c9d1d9;
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-      line-height: 1.6;
-    }
-    .container {
-      max-width: 900px;
-      margin: 0 auto;
-      background: #161b22;
-      padding: 40px;
-      border-radius: 12px;
-      border: 1px solid #30363d;
-    }
-    h1, h2, h3 {
-      color: #58a6ff;
-    }
-    a {
-      color: #58a6ff;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    img {
-      max-width: 100%;
-      height: auto;
-      display: block;
-      margin: 10px 0;
-    }
-    .badges img {
-      margin: 6px 4px 6px 0;
-      display: inline-block;
-    }
-    .quote {
-      font-style: italic;
-      color: #ffffffff;
-      padding: 12px;
-    }
-    .quote p {
-        background-color: #003074ff;
-        text-align: center;
-        padding: 12px;
-        border-radius: 12px;
-    }
-    .quote p strong{
-        padding: 5px;
-        border-radius: 12px;
-        background-color: #00193dff;
-        color: #c9d1d9;
-    }
-    .quote strong {
-      color: #c9d1d9;
-    }
-    .quote strong {
-      color: #c9d1d9;
-    }
-    center {
-      text-align: center;
-    }
-    .streak-card {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-      background-color: #0d1117;
-      border: 1px solid #30363d;
-      border-radius: 12px;
-      padding: 24px;
-      margin: 20px auto;
-      color: #c9d1d9;
-      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
-      transition: transform 0.2s ease, box-shadow 0.2s ease;
-      /* position: relative;
-      overflow: hidden; */
-    }
-    h1.streak-title {
-      color: #58a6ff;
-      font-size: 13px;
-      font-weight: 600;
-      text-transform: uppercase;
-      letter-spacing: 0.05em;
-      margin: 0 0 24px;
-      text-align: center;
-      opacity: 0.9;
-    }
-    .streak-icon {
-      font-size: 32px;
-      margin-bottom: -5px;
-      filter: drop-shadow(0 0 8px rgba(255, 149, 84, 0.6));
-      animation: flicker 2s infinite alternate;
-    }
-    .streak-number-big {
-      font-size: 48px;
-      font-weight: 800;
-      line-height: 1;
-      color: #f0f6fc;
-      text-shadow: 0 0 15px rgba(88, 166, 255, 0.4);
-      margin: 0;
-    }
-    .streak-label-main {
-      font-size: 14px;
-      font-weight: 600;
-      color: #8b949e;
-      margin: 8px 0 0;
-      text-align: center;
-    }
-    .streak-stat {
-      text-align: center;
-      margin: 20px 0;
-    }
-  </style>
-
-
 <h1 style="text-align: center;">Hi, I'm Muhammad Rutaab Ali</h1>
 <h3 style="text-align: center;">A passionate Web developer</h3> <hr style="border: 1px solid #30363d;">
 
@@ -164,35 +50,35 @@
 <h2>Random Dev Quote</h2>
 <div class="quote">
 
-<p>Talk is cheap. Show me the code.  <strong>Linus Torvalds</strong></p>
+> <p>Talk is cheap. Show me the code.  <strong>Linus Torvalds</strong></p>
 
-<p>Code is like humor. When you have to explain it, it's bad.  <strong>Cory House</strong></p>
+> <p>Code is like humor. When you have to explain it, it's bad.  <strong>Cory House</strong></p>
 
-<p>First, solve the problem. Then, write the code.  <strong>John Johnson</strong></p>
+> <p>First, solve the problem. Then, write the code.  <strong>John Johnson</strong></p>
 
-<p>Any fool can write code that a computer can understand. Good programmers write code that humans can understand.  <strong>Martin Fowler</strong></p>
+> <p>Any fool can write code that a computer can understand. Good programmers write code that humans can understand.  <strong>Martin Fowler</strong></p>
 
-<p>The best error message is the one that never shows up.  <strong>Unknown</strong></p>
+> <p>The best error message is the one that never shows up.  <strong>Unknown</strong></p>
 
-<p>Debugging is twice as hard as writing the code in the first place.  <strong>Brian Kernighan</strong></p>
+> <p>Debugging is twice as hard as writing the code in the first place.  <strong>Brian Kernighan</strong></p>
 
-<p>Premature optimization is the root of all evil.  <strong>Donald Knuth</strong></p>
+> <p>Premature optimization is the root of all evil.  <strong>Donald Knuth</strong></p>
 
-<p>Make it work, make it right, make it fast.  <strong>Kent Beck</strong></p>
+> <p>Make it work, make it right, make it fast.  <strong>Kent Beck</strong></p>
 
-<p>Code never lies, comments sometimes do.  <strong>Ron Jeffries</strong></p>
+> <p>Code never lies, comments sometimes do.  <strong>Ron Jeffries</strong></p>
 
-<p>Simplicity is prerequisite for reliability.  <strong>Edsger Dijkstra</strong></p>
+> <p>Simplicity is prerequisite for reliability.  <strong>Edsger Dijkstra</strong></p>
 
-<p>If debugging is the process of removing software bugs, then programming must be the process of putting them in.  <strong>Edsger Dijkstra</strong></p>
+> <p>If debugging is the process of removing software bugs, then programming must be the process of putting them in.  <strong>Edsger Dijkstra</strong></p>
 
-<p>Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.  <strong>John Woods</strong></p>
+> <p>Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.  <strong>John Woods</strong></p>
 
-<p>The function of good software is to make the complex appear to be simple.  <strong>Grady Booch</strong></p>
+> <p>The function of good software is to make the complex appear to be simple.  <strong>Grady Booch</strong></p>
 
-<p>There's no obfuscated Perl contest because it's pointless.  <strong>Jeff Polk</strong></p>
+> <p>There's no obfuscated Perl contest because it's pointless.  <strong>Jeff Polk</strong></p>
 
-<p>Walking on water and developing software from a specification are easy if both are frozen.  <strong>Edward V. Berard</strong></p>
+> <p>Walking on water and developing software from a specification are easy if both are frozen.  <strong>Edward V. Berard</strong></p>
 
 </div>
 
@@ -219,7 +105,7 @@
 ![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)<br>
 ![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)<br>
 
-<!-- <p>Proudly created with GPRM ( https://gprm.itsvg.in )</p> -->
+<!-- > <p>Proudly created with GPRM ( https://gprm.itsvg.in )</p> -->
 
 
 </body>
