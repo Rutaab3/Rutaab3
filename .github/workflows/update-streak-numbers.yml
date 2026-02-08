@@ -1,0 +1,40 @@
+name: Update Streak Numbers in README
+
+on:
+  schedule:
+    - cron: '0 3 * * *'          # Every day at 3:00 UTC (~early morning your time)
+  workflow_dispatch:             # Allows manual trigger from Actions tab
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT }}   # We'll set this secret next
+
+      - name: Fetch streak data (JSON)
+        id: fetch
+        run: |
+          curl -s "https://streak-stats.demolab.com/?user=Rutaab3&type=json" > streak.json
+          CURRENT=$(jq -r '.currentStreak.days' streak.json)
+          LONGEST=$(jq -r '.longestStreak.days' streak.json)
+          TOTAL=$(jq -r '.contributionsThisYear // .totalContributions // 0' streak.json)  # fallback if field name varies
+
+          echo "CURRENT=$CURRENT" >> $GITHUB_ENV
+          echo "LONGEST=$LONGEST" >> $GITHUB_ENV
+          echo "TOTAL=$TOTAL" >> $GITHUB_ENV
+
+      - name: Update README with new numbers
+        run: |
+          sed -i "s|<p id=\"current-streak-num\" class=\"streak-number-big\">[0-9]\+</p>|<p id=\"current-streak-num\" class=\"streak-number-big\">${{ env.CURRENT }}</p>|" readme.md
+          sed -i "s|<p id=\"longest-streak-num\" class=\"streak-number-big\">[0-9]\+</p>|<p id=\"longest-streak-num\" class=\"streak-number-big\">${{ env.LONGEST }}</p>|" readme.md
+          sed -i "s|<p id=\"total-contributions-num\" class=\"streak-number-big\">[0-9]\+</p>|<p id=\"total-contributions-num\" class=\"streak-number-big\">${{ env.TOTAL }}</p>|" readme.md
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update streak numbers automatically [skip ci]
+          file_pattern: readme.md
