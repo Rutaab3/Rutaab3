@@ -1,6 +1,6 @@
 <h1 style="text-align: center;">Hi, I'm Muhammad Rutaab Ali</h1>
 <h3 style="text-align: center;">A passionate Web developer</h3> <hr style="border: 1px solid #30363d;">
-
+ 
 <h2>About Me:</h2>
 <ul>
   <li>I'm currently working on <strong>Improving my javascript knowledge</strong></li>
