@@ -65,5 +65,6 @@ jobs:
             echo "No changes to commit — numbers are already up to date."
           else
             git commit -m "chore: update streak numbers automatically [skip ci]"
+            git pull --rebase origin main
             git push
           fi
