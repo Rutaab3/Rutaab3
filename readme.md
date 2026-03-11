@@ -31,20 +31,28 @@
 <div class="streak-card">
   <h1 class="streak-title">My GitHub Streak Stats</h1>
 
-  <div class="streak-stat">
-    <p id="current-streak-num" class="streak-number-big">0</p>
-    <p class="streak-label-main">Current Streak</p>
-  </div>
-
-  <div class="streak-stat">
-    <p id="longest-streak-num" class="streak-number-big">8</p>
-    <p class="streak-label-main">Longest Streak</p>
-  </div>
-
-  <div class="streak-stat">
-    <p id="total-contributions-num" class="streak-number-big">485</p>
-    <p class="streak-label-main">Contributions since Apr 2025</p>
-  </div>
+ <table>
+  <tr>
+    <td>
+      <div class="streak-stat">
+        <p id="current-streak-num" class="streak-number-big">0</p>
+        <p class="streak-label-main">Current Streak</p>
+      </div>
+    </td>
+    <td>
+      <div class="streak-stat">
+        <p id="longest-streak-num" class="streak-number-big">8</p>
+        <p class="streak-label-main">Longest Streak</p>
+      </div>
+    </td>
+    <td>
+      <div class="streak-stat">
+        <p id="total-contributions-num" class="streak-number-big">485</p>
+        <p class="streak-label-main">Contributions since Apr 2025</p>
+      </div>
+    </td>
+  </tr>
+</table>
 </div>
 
 <h2 style="background-color: lightblue;">Random Dev Quote</h2>
