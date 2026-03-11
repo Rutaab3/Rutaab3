@@ -47,7 +47,7 @@
   </div>
 </div>
 
-<h2>Random Dev Quote</h2>
+<h2 style="background-color: lightblue;">Random Dev Quote</h2>
 <div class="quote">
 
 > <p>Talk is cheap. Show me the code.  <strong>Linus Torvalds</strong></p>
