@@ -37,35 +37,37 @@
 </div>
 
 <h2>Random Dev Quote</h2>
+
 > *“Talk is cheap. Show me the code.”* — **Linus Torvalds**
->
+
 > *“Code is like humor. When you have to explain it, it's bad.”* — **Cory House**
->
+
 > *“First, solve the problem. Then, write the code.”* — **John Johnson**
->
+
 > *“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”* — **Martin Fowler**
->
+
 > *“The best error message is the one that never shows up.”* — **Unknown**
->
+
 > *“Debugging is twice as hard as writing the code in the first place.”* — **Brian Kernighan**
->
+
 > *“Premature optimization is the root of all evil.”* — **Donald Knuth**
->
+
 > *“Make it work, make it right, make it fast.”* — **Kent Beck**
->
+
 > *“Code never lies, comments sometimes do.”* — **Ron Jeffries**
->
+
 > *“Simplicity is prerequisite for reliability.”* — **Edsger Dijkstra**
->
+
 > *“If debugging is the process of removing software bugs, then programming must be the process of putting them in.”* — **Edsger Dijkstra**
->
+
 > *“Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.”* — **John Woods**
->
+
 > *“The function of good software is to make the complex appear to be simple.”* — **Grady Booch**
->
+
 > *“There's no obfuscated Perl contest because it's pointless.”* — **Jeff Polk**
->
+
 > *“Walking on water and developing software from a specification are easy if both are frozen.”* — **Edward V. Berard**
+
 
 
 <h2>Top Contributed Repo</h2>
