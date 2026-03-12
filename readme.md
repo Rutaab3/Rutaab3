@@ -36,40 +36,37 @@
 | 2 | 8 | 488 (since Apr 2025) |
 </div>
 
-<h2 style="background-color: lightblue;">Random Dev Quote</h2>
-<div class="quote">
+<h2>Random Dev Quote</h2>
+> *“Talk is cheap. Show me the code.”* — **Linus Torvalds**
+>
+> *“Code is like humor. When you have to explain it, it's bad.”* — **Cory House**
+>
+> *“First, solve the problem. Then, write the code.”* — **John Johnson**
+>
+> *“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”* — **Martin Fowler**
+>
+> *“The best error message is the one that never shows up.”* — **Unknown**
+>
+> *“Debugging is twice as hard as writing the code in the first place.”* — **Brian Kernighan**
+>
+> *“Premature optimization is the root of all evil.”* — **Donald Knuth**
+>
+> *“Make it work, make it right, make it fast.”* — **Kent Beck**
+>
+> *“Code never lies, comments sometimes do.”* — **Ron Jeffries**
+>
+> *“Simplicity is prerequisite for reliability.”* — **Edsger Dijkstra**
+>
+> *“If debugging is the process of removing software bugs, then programming must be the process of putting them in.”* — **Edsger Dijkstra**
+>
+> *“Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.”* — **John Woods**
+>
+> *“The function of good software is to make the complex appear to be simple.”* — **Grady Booch**
+>
+> *“There's no obfuscated Perl contest because it's pointless.”* — **Jeff Polk**
+>
+> *“Walking on water and developing software from a specification are easy if both are frozen.”* — **Edward V. Berard**
 
-> <p>Talk is cheap. Show me the code.  <strong>Linus Torvalds</strong></p>
-
-> <p>Code is like humor. When you have to explain it, it's bad.  <strong>Cory House</strong></p>
-
-> <p>First, solve the problem. Then, write the code.  <strong>John Johnson</strong></p>
-
-> <p>Any fool can write code that a computer can understand. Good programmers write code that humans can understand.  <strong>Martin Fowler</strong></p>
-
-> <p>The best error message is the one that never shows up.  <strong>Unknown</strong></p>
-
-> <p>Debugging is twice as hard as writing the code in the first place.  <strong>Brian Kernighan</strong></p>
-
-> <p>Premature optimization is the root of all evil.  <strong>Donald Knuth</strong></p>
-
-> <p>Make it work, make it right, make it fast.  <strong>Kent Beck</strong></p>
-
-> <p>Code never lies, comments sometimes do.  <strong>Ron Jeffries</strong></p>
-
-> <p>Simplicity is prerequisite for reliability.  <strong>Edsger Dijkstra</strong></p>
-
-> <p>If debugging is the process of removing software bugs, then programming must be the process of putting them in.  <strong>Edsger Dijkstra</strong></p>
-
-> <p>Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.  <strong>John Woods</strong></p>
-
-> <p>The function of good software is to make the complex appear to be simple.  <strong>Grady Booch</strong></p>
-
-> <p>There's no obfuscated Perl contest because it's pointless.  <strong>Jeff Polk</strong></p>
-
-> <p>Walking on water and developing software from a specification are easy if both are frozen.  <strong>Edward V. Berard</strong></p>
-
-</div>
 
 <h2>Top Contributed Repo</h2>
 <img src="https://github-contributor-stats.vercel.app/api?username=Rutaab3&limit=100&theme=vision-friendly-dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
