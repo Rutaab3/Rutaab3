@@ -35,7 +35,7 @@
   <tr>
     <td>
       <div class="streak-stat">
-        <p id="current-streak-num" class="streak-number-big">0</p>
+        <p id="current-streak-num" class="streak-number-big">2</p>
         <p class="streak-label-main">Current Streak</p>
       </div>
     </td>
@@ -47,7 +47,7 @@
     </td>
     <td>
       <div class="streak-stat">
-        <p id="total-contributions-num" class="streak-number-big">485</p>
+        <p id="total-contributions-num" class="streak-number-big">488</p>
         <p class="streak-label-main">Contributions since Apr 2025</p>
       </div>
     </td>
