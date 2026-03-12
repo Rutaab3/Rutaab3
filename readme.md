@@ -38,7 +38,7 @@
 
 <h2>Random Dev Quote</h2>
 
-> *“Talk is cheap. Show me the code.”* — **Linus Torvalds**
+> *“Talk is cheap. Show me the code.”* — <br> **Linus Torvalds**
 
 > *“Code is like humor. When you have to explain it, it's bad.”* — **Cory House**
 
