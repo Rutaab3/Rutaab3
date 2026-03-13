@@ -31,44 +31,56 @@
 <div class="streak-card">
   <h1 class="streak-title">My GitHub Streak Stats</h1>
 
-| Current Streak | Longest Streak | Total Contributions |
-| :---: | :---: | :---: |
-| 2 | 8 | 488 (since Apr 2025) |
+  <div class="streak-stat">
+    <p id="current-streak-num" class="streak-number-big">0</p>
+    <p class="streak-label-main">Current Streak</p>
+  </div>
+
+  <div class="streak-stat">
+    <p id="longest-streak-num" class="streak-number-big">8</p>
+    <p class="streak-label-main">Longest Streak</p>
+  </div>
+
+  <div class="streak-stat">
+    <p id="total-contributions-num" class="streak-number-big">485</p>
+    <p class="streak-label-main">Contributions since Apr 2025</p>
+  </div>
 </div>
 
-<h2>Random Dev Quote</h2>
+<h2 style="background-color: lightblue;">Random Dev Quote</h2>
+<div class="quote">
 
-> *“Talk is cheap. Show me the code.”* — <br> **Linus Torvalds**
+> <p>Talk is cheap. Show me the code.  <strong>Linus Torvalds</strong></p>
 
-> *“Code is like humor. When you have to explain it, it's bad.”* — **Cory House**
+> <p>Code is like humor. When you have to explain it, it's bad.  <strong>Cory House</strong></p>
 
-> *“First, solve the problem. Then, write the code.”* — **John Johnson**
+> <p>First, solve the problem. Then, write the code.  <strong>John Johnson</strong></p>
 
-> *“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”* — **Martin Fowler**
+> <p>Any fool can write code that a computer can understand. Good programmers write code that humans can understand.  <strong>Martin Fowler</strong></p>
 
-> *“The best error message is the one that never shows up.”* — **Unknown**
+> <p>The best error message is the one that never shows up.  <strong>Unknown</strong></p>
 
-> *“Debugging is twice as hard as writing the code in the first place.”* — **Brian Kernighan**
+> <p>Debugging is twice as hard as writing the code in the first place.  <strong>Brian Kernighan</strong></p>
 
-> *“Premature optimization is the root of all evil.”* — **Donald Knuth**
+> <p>Premature optimization is the root of all evil.  <strong>Donald Knuth</strong></p>
 
-> *“Make it work, make it right, make it fast.”* — **Kent Beck**
+> <p>Make it work, make it right, make it fast.  <strong>Kent Beck</strong></p>
 
-> *“Code never lies, comments sometimes do.”* — **Ron Jeffries**
+> <p>Code never lies, comments sometimes do.  <strong>Ron Jeffries</strong></p>
 
-> *“Simplicity is prerequisite for reliability.”* — **Edsger Dijkstra**
+> <p>Simplicity is prerequisite for reliability.  <strong>Edsger Dijkstra</strong></p>
 
-> *“If debugging is the process of removing software bugs, then programming must be the process of putting them in.”* — **Edsger Dijkstra**
+> <p>If debugging is the process of removing software bugs, then programming must be the process of putting them in.  <strong>Edsger Dijkstra</strong></p>
 
-> *“Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.”* — **John Woods**
+> <p>Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.  <strong>John Woods</strong></p>
 
-> *“The function of good software is to make the complex appear to be simple.”* — **Grady Booch**
+> <p>The function of good software is to make the complex appear to be simple.  <strong>Grady Booch</strong></p>
 
-> *“There's no obfuscated Perl contest because it's pointless.”* — **Jeff Polk**
+> <p>There's no obfuscated Perl contest because it's pointless.  <strong>Jeff Polk</strong></p>
 
-> *“Walking on water and developing software from a specification are easy if both are frozen.”* — **Edward V. Berard**
+> <p>Walking on water and developing software from a specification are easy if both are frozen.  <strong>Edward V. Berard</strong></p>
 
-
+</div>
 
 <h2>Top Contributed Repo</h2>
 <img src="https://github-contributor-stats.vercel.app/api?username=Rutaab3&limit=100&theme=vision-friendly-dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
