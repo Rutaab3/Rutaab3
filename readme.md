@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </div>
-
+ 
 <h2>GitHub Stats:</h2>
 <div class="streak-card">
   <h1 class="streak-title">My GitHub Streak Stats</h1>
