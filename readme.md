@@ -37,7 +37,7 @@
   </div>
 
   <div class="streak-stat">
-    <p id="longest-streak-num" class="streak-number-big">8</p>
+    <p id="longest-streak-num" class="streak-number-big">7</p>
     <p class="streak-label-main">Longest Streak</p>
   </div>
 
