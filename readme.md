@@ -32,17 +32,17 @@
   <h1 class="streak-title">My GitHub Streak Stats</h1>
 
   <div class="streak-stat">
-    <p id="current-streak-num" class="streak-number-big">9</p>
+    <p id="current-streak-num" class="streak-number-big">10</p>
     <p class="streak-label-main">Current Streak</p>
   </div>
 
   <div class="streak-stat">
-    <p id="longest-streak-num" class="streak-number-big">9</p>
+    <p id="longest-streak-num" class="streak-number-big">10</p>
     <p class="streak-label-main">Longest Streak</p>
   </div>
 
   <div class="streak-stat">
-    <p id="total-contributions-num" class="streak-number-big">546</p>
+    <p id="total-contributions-num" class="streak-number-big">547</p>
     <p class="streak-label-main">Contributions since Apr 2025</p>
   </div>
 </div>
