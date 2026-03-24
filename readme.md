@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Hi, I'm Muhammad Rutaab Ali</h1>
+<h1 style="text-align: center;">Hi, I'm Muhammad Rutaab Ali</h1> 
 <h3 style="text-align: center;">A passionate Web developer</h3>
  
 <h2>About Me:</h2>
