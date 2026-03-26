@@ -32,7 +32,7 @@
   <h1 class="streak-title">My GitHub Streak Stats</h1>
 
   <div class="streak-stat">
-    <p id="current-streak-num" class="streak-number-big">2</p>
+    <p id="current-streak-num" class="streak-number-big">0</p>
     <p class="streak-label-main">Current Streak</p>
   </div>
 
