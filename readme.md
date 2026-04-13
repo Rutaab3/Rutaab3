@@ -1,7 +1,8 @@
+<center>
 <h1 style="text-align: center;">Hi, I'm Muhammad Rutaab Ali</h1> 
-<img src="https://komarev.com/ghpvc/?username=Rutaab3&style=for-the-badge&color=blueviolet" alt="JavaScript">
+<img src="https://img.shields.io/static/v1?label=Profile+views&message=4058&color=grey&style=for-the-badge">
 <h3 style="text-align: center;">A passionate Web developer</h3>
-  
+</center>
 <h2>About Me:</h2>
 <ul>
   <li>I'm currently working on <strong>Improving my javascript knowledge</strong></li>
@@ -109,7 +110,6 @@
 ![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)<br>
 
 <!-- > <p>Proudly created with GPRM ( https://gprm.itsvg.in )</p> -->
-
 
 </body>
 </html>
