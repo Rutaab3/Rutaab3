@@ -1,6 +1,6 @@
 <center>
 <h1 style="text-align: center;">Hi, I'm Muhammad Rutaab Ali</h1> 
-<img src="https://img.shields.io/static/v1?label=Profile+views&message=4058&color=grey&style=for-the-badge">
+<img src="https://img.shields.io/static/v1?label=Profile+views&message=99999&color=grey&style=for-the-badge">
 <h3 style="text-align: center;">A passionate Web developer</h3>
 </center>
 <h2>About Me:</h2>
