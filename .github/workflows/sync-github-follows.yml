@@ -19,5 +19,5 @@ jobs:
 
       - name: Follow back followers and unfollow non-followers
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_FOLLOW_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.USER_FOLLOW_TOKEN }}
         run: python3 scripts/sync_github_follows.py --apply
