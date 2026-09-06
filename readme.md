@@ -1,13 +1,11 @@
-BRAIN <sub>D</sub><sup>R</sup><u>A</u><mark>I</mark><small>N</small> <big>P</big><kbd>R</kbd>O<span style="color:
-#e0472c">B</span><span style="color:
-#1f6feb;font-weight:bold">L</span><span style="font-family:cursive;font-size:1.4em">E</span><span style="text-decoration:underline wavy 
-#ff3b3b">M</span><div align="center">
+<img width="1757" height="196" alt="image" src="https://github.com/user-attachments/assets/1222feb0-759a-4825-aca3-fda400713107" />
+
+<div align="center">
 
 # Muhammad Rutaab Ali
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rutaabali3.rutaabali3&left_text=visitors&left_color=%23388bff&right_color=%23378bff&logo=github&radius=0&height=27)
 ![followers](https://img.shields.io/github/followers/rutaabali3?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=blue&labelColor=blue&radius=0&height=27)
 ### Deep Thinker · Vibe Coder · Web Developer · E-commerce & SEO
-LoVe to DO BariN drAin PRomBle*m*
 
 I spend my time building **fast, responsive websites** and **e-commerce tools** that actually work. I focus on making sure every line of code helps turn an idea into something people can use.
 
