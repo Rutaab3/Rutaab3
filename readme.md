@@ -101,7 +101,7 @@ The same colorful technology artwork used in the portfolio’s **Tech Stack** se
 The tables below replace the former SVG cards. They show the same live GitHub data as readable, separate Markdown tables and refresh automatically.
 
 <!-- LIVE-GITHUB-TABLES:START -->
-_Live GitHub API snapshot · generated automatically · refreshed 2026-09-06 09:15 UTC_
+_Live GitHub API snapshot · generated automatically · refreshed 2026-09-06 17:20 UTC_
 
 ## Commit activity output
 
@@ -117,7 +117,7 @@ _Live GitHub API snapshot · generated automatically · refreshed 2026-09-06 09:
 | Metric | Live value | What it represents | Data basis | Refresh |
 |:--|--:|:--|:--|:--|
 | Public repositories | **37** | Public repositories owned | GitHub profile | Automatic |
-| Followers | **42** | People following this profile | GitHub profile | Automatic |
+| Followers | **41** | People following this profile | GitHub profile | Automatic |
 | Stars | **73** | Stars across public repositories | Repository metadata | Automatic |
 | Forks | **4** | Forks across public repositories | Repository metadata | Automatic |
 
@@ -138,11 +138,12 @@ _Live GitHub API snapshot · generated automatically · refreshed 2026-09-06 09:
 
 | Activity detail | Live value | What it represents | Data window | Refresh |
 |:--|--:|:--|:--|:--|
-| Commits this year | **410** | Commits found in 2026 | Calendar year | Automatic |
+| Commits this year | **411** | Commits found in 2026 | Calendar year | Automatic |
 | Active days this year | **63** | Days with at least one commit | Calendar year | Automatic |
 | Best day this year | **31 commits** | Highest daily total | Calendar year | Automatic |
 | Public events | **100** | Recent public GitHub events | Latest API window | Automatic |
 <!-- LIVE-GITHUB-TABLES:END -->
+
 
 
 
