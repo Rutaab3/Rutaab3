@@ -25,27 +25,6 @@ I’m **Muhammad Rutaab Ali**. I build things for the web. I like the challenge 
 
 I don't just write code; I look at the whole picture—from how a user interacts with a page to how a product is listed and discovered on eBay or a company site.
 
-## GitHub follow sync
-
-The repository includes [`scripts/sync_github_follows.py`](scripts/sync_github_follows.py), a small opt-in utility that follows back GitHub users who follow the authenticated account and identifies accounts you follow that do not follow you back. It uses GitHub's API, handles pagination, and protects optional usernames from being unfollowed. The script is a **dry run by default**; it never changes the account unless `--apply` is explicitly supplied.
-
-Create a GitHub token with permission to follow and unfollow users, export it locally, and preview the planned changes:
-
-```bash
-export GITHUB_TOKEN="your-token"
-python3 scripts/sync_github_follows.py
-```
-
-If the preview is correct, apply it. Add `--exclude USERNAME` once for each account that must never be unfollowed:
-
-```bash
-python3 scripts/sync_github_follows.py --apply --exclude github
-```
-
-Keep the token private and do not commit it to the repository. Review GitHub's automation and rate-limit policies before running the script, and use the default delay unless you have a reason to change it.
-
-For automatic daily execution, the repository also includes [`sync-github-follows.yml`](.github/workflows/sync-github-follows.yml). Add a repository secret named `USER_FOLLOW_TOKEN` with permission to follow and unfollow users, then start the workflow from the **Actions** tab or let its daily schedule run. The workflow uses `--apply`; the local command above remains the safe preview option.
-
 <table>
 <tr>
 <td width="50%" valign="top">
