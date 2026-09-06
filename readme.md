@@ -120,7 +120,7 @@ The same colorful technology artwork used in the portfolio’s **Tech Stack** se
 The tables below replace the former SVG cards. They show the same live GitHub data as readable, separate Markdown tables and refresh automatically.
 
 <!-- LIVE-GITHUB-TABLES:START -->
-_Live GitHub API snapshot · generated automatically · refreshed 2026-09-06 08:06 UTC_
+_Live GitHub API snapshot · generated automatically · refreshed 2026-09-06 08:08 UTC_
 
 ## Commit activity output
 
@@ -128,7 +128,7 @@ _Live GitHub API snapshot · generated automatically · refreshed 2026-09-06 08:
 |:--|--:|:--|:--|:--|
 | Commits in the last 24 hours | **5** | Recent commit activity | Rolling 24 hours | Automatic |
 | Current streak | **9 days** | Consecutive days with commits | GitHub history | Automatic |
-| Most commits in one day | **30** | Highest daily commit total | Current year | Automatic |
+| Most commits in one day | **31** | Highest daily commit total | Current year | Automatic |
 | Longest streak | **9 days** | Longest consecutive run | GitHub history | Automatic |
 
 ## Contributor statistics output
@@ -144,14 +144,14 @@ _Live GitHub API snapshot · generated automatically · refreshed 2026-09-06 08:
 
 | Language | Repository bytes | Share of detected code | Data basis | Refresh |
 |:--|--:|--:|:--|:--|
-| HTML | 11,905,641 bytes | 36.8%  | Repository language statistics | Automatic |
+| HTML | 11,905,641 bytes | 36.7%  | Repository language statistics | Automatic |
 | TypeScript | 6,672,918 bytes | 20.6%  | Repository language statistics | Automatic |
 | CSS | 6,039,538 bytes | 18.6%  | Repository language statistics | Automatic |
 | JavaScript | 5,336,379 bytes | 16.5%  | Repository language statistics | Automatic |
 | PHP | 1,349,958 bytes | 4.2%  | Repository language statistics | Automatic |
 | Blade | 491,028 bytes | 1.5%  | Repository language statistics | Automatic |
 | C# | 310,864 bytes | 1.0%  | Repository language statistics | Automatic |
-| Python | 117,788 bytes | 0.4%  | Repository language statistics | Automatic |
+| Python | 122,853 bytes | 0.4%  | Repository language statistics | Automatic |
 
 ## Profile details output
 
@@ -159,9 +159,10 @@ _Live GitHub API snapshot · generated automatically · refreshed 2026-09-06 08:
 |:--|--:|:--|:--|:--|
 | Commits this year | **402** | Commits found in 2026 | Calendar year | Automatic |
 | Active days this year | **64** | Days with at least one commit | Calendar year | Automatic |
-| Best day this year | **30 commits** | Highest daily total | Calendar year | Automatic |
+| Best day this year | **31 commits** | Highest daily total | Calendar year | Automatic |
 | Public events | **100** | Recent public GitHub events | Latest API window | Automatic |
 <!-- LIVE-GITHUB-TABLES:END -->
+
 
 
 
