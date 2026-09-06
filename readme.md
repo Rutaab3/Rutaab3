@@ -47,6 +47,8 @@ python3 scripts/sync_github_follows.py --apply --exclude github
 
 Keep the token private and do not commit it to the repository. Review GitHub's automation and rate-limit policies before running the script, and use the default delay unless you have a reason to change it.
 
+For automatic daily execution, the repository also includes [`sync-github-follows.yml`](.github/workflows/sync-github-follows.yml). Add a repository secret named `GITHUB_FOLLOW_TOKEN` with permission to follow and unfollow users, then start the workflow from the **Actions** tab or let its daily schedule run. The workflow uses `--apply`; the local command above remains the safe preview option.
+
 <table>
 <tr>
 <td width="50%" valign="top">

@@ -1,0 +1,23 @@
+name: Sync GitHub Follows
+
+on:
+  schedule:
+    - cron: '11 4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Follow back followers and unfollow non-followers
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_FOLLOW_TOKEN }}
+        run: python3 scripts/sync_github_follows.py --apply
