@@ -99,13 +99,13 @@ The same colorful technology artwork used in the portfolio’s **Tech Stack** se
 The tables below replace the former SVG cards. They show the same live GitHub data as readable, separate Markdown tables and refresh automatically.
 
 <!-- LIVE-GITHUB-TABLES:START -->
-_Live GitHub API snapshot · generated automatically · refreshed 2026-09-07 08:37 UTC_
+_Live GitHub API snapshot · generated automatically · refreshed 2026-09-08 08:19 UTC_
 
 ## Commit activity output
 
 | Metric | Live value | What it represents | Data window | Refresh |
 |:--|--:|:--|:--|:--|
-| Commits in the last 24 hours | **6** | Recent commit activity | Rolling 24 hours | Automatic |
+| Commits in the last 24 hours | **0** | Recent commit activity | Rolling 24 hours | Automatic |
 | Current streak | **7 days** | Consecutive days with commits | GitHub history | Automatic |
 | Most commits in one day | **31** | Highest daily commit total | Current year | Automatic |
 | Longest streak | **7 days** | Longest consecutive run | GitHub history | Automatic |
@@ -115,7 +115,7 @@ _Live GitHub API snapshot · generated automatically · refreshed 2026-09-07 08:
 | Metric | Live value | What it represents | Data basis | Refresh |
 |:--|--:|:--|:--|:--|
 | Public repositories | **37** | Public repositories owned | GitHub profile | Automatic |
-| Followers | **42** | People following this profile | GitHub profile | Automatic |
+| Followers | **45** | People following this profile | GitHub profile | Automatic |
 | Stars | **73** | Stars across public repositories | Repository metadata | Automatic |
 | Forks | **4** | Forks across public repositories | Repository metadata | Automatic |
 
@@ -141,6 +141,7 @@ _Live GitHub API snapshot · generated automatically · refreshed 2026-09-07 08:
 | Best day this year | **31 commits** | Highest daily total | Calendar year | Automatic |
 | Public events | **100** | Recent public GitHub events | Latest API window | Automatic |
 <!-- LIVE-GITHUB-TABLES:END -->
+
 
 
 
