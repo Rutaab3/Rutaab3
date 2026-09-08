@@ -24,8 +24,6 @@ I spend my time building **fast, responsive websites** and **e-commerce tools** 
 
 I’m **Muhammad Rutaab Ali**. I build things for the web. I like the challenge of taking a complex problem and turning it into a clean, working interface. Whether I'm working with **PHP and Laravel** on the backend or fine-tuning **SEO** to get a site noticed, I focus on building systems that are reliable and easy to use.
 
-I don't just write code; I look at the whole picture—from how a user interacts with a page to how a product is listed and discovered on eBay or a company site.
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -53,7 +51,7 @@ I don't just write code; I look at the whole picture—from how a user interacts
 
 ## Tech Stack
 
-The same colorful technology artwork used in the portfolio’s **Tech Stack** section.
+My **Tools** and **Tech Stack** section.
 
 <div align="center">
 
@@ -95,8 +93,6 @@ The same colorful technology artwork used in the portfolio’s **Tech Stack** se
 </div>
 
 ## GitHub statistics output
-
-The tables below replace the former SVG cards. They show the same live GitHub data as readable, separate Markdown tables and refresh automatically.
 
 <!-- LIVE-GITHUB-TABLES:START -->
 _Live GitHub API snapshot · generated automatically · refreshed 2026-09-08 08:19 UTC_
