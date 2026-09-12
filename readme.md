@@ -1,6 +1,5 @@
-<img width="1757" height="196" alt="image" src="https://github.com/user-attachments/assets/1222feb0-759a-4825-aca3-fda400713107" />
-
 <div align="center">
+<img width="600" height="213" alt="Untitled design" src="https://github.com/user-attachments/assets/453b4d82-48e8-4696-825a-fcfa701c2490" />
 
 # Muhammad Rutaab Ali
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rutaabali3.rutaabali3&left_text=visitors&left_color=%23388bff&right_color=%23378bff&logo=github&radius=0&height=27)
@@ -138,37 +137,6 @@ _Live GitHub API snapshot · generated automatically · refreshed 2026-09-12 08:
 | Public events | **100** | Recent public GitHub events | Latest API window | Automatic |
 <!-- LIVE-GITHUB-TABLES:END -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Experience snapshot
 
 | Period | Focus |
@@ -192,4 +160,5 @@ Have a project in mind, need a website, or want to discuss e-commerce and SEO op
 
 <sub>Building, breaking, and improving—one commit at a time.</sub>
 
+<img width="1757" height="196" alt="image" src="https://github.com/user-attachments/assets/1222feb0-759a-4825-aca3-fda400713107" />
 </div>
