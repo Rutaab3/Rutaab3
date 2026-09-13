@@ -1,5 +1,5 @@
 <div align="center">
-<img width="600" height="213" alt="Untitled design" src="https://github.com/user-attachments/assets/453b4d82-48e8-4696-825a-fcfa701c2490" />
+<img width="1859" height="335" alt="CITYPNG COM HD Bismilah بسم الله الرحمان الرحيم Basmalah White Text PNG - 2000x2000" src="https://github.com/user-attachments/assets/f30aa340-9166-46de-9f64-0c5ca802717d" />
 
 # Muhammad Rutaab Ali
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rutaabali3.rutaabali3&left_text=visitors&left_color=%23388bff&right_color=%23378bff&logo=github&radius=0&height=27)
